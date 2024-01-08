@@ -23,3 +23,8 @@ activations - Added GELU & ReLU6
 
 <img width="974" alt="Screenshot 2024-01-08 at 4 05 53 PM" src="https://github.com/usernameandme/dl-tutorials/assets/2610866/0f1fae84-f726-4eb5-943b-dca963df914c">
 
+<img width="894" alt="Screenshot 2024-01-08 at 4 28 39 PM" src="https://github.com/usernameandme/dl-tutorials/assets/2610866/3acafb2e-4316-4411-b908-50d719d05e85">
+
+<img width="826" alt="Screenshot 2024-01-08 at 4 27 59 PM" src="https://github.com/usernameandme/dl-tutorials/assets/2610866/b8c229d1-0178-4a69-a6c8-4b2caba1ea01">
+
+<img width="916" alt="Screenshot 2024-01-08 at 4 29 07 PM" src="https://github.com/usernameandme/dl-tutorials/assets/2610866/0055d6c9-e9e8-42b1-b40d-87ecbf411230">
