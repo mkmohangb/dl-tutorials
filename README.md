@@ -36,3 +36,6 @@ activations - Added GELU & ReLU6
 
 <img width="930" alt="Screenshot 2024-01-08 at 5 21 28 PM" src="https://github.com/usernameandme/dl-tutorials/assets/2610866/878e4c83-9ec3-4dc5-8459-2a837129b5d6">
 
+<img width="938" alt="Screenshot 2024-01-10 at 11 30 09 AM" src="https://github.com/usernameandme/dl-tutorials/assets/2610866/399c4e0b-43fe-430e-acd0-5403053145ed">
+
+
